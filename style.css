@@ -1,0 +1,39 @@
+/* I’m styling the header using its unique ID */
+#main-header {
+    background-color: #4CAF50; /* I chose green for the background to make it vibrant */
+    color: white; /* White text contrasts nicely with the green background */
+    text-align: center; /* Center-aligning the text makes it look neat */
+    padding: 20px; /* Adding padding creates space inside the header */
+}
+
+/* I’m styling the navigation bar using its class */
+.nav-bar {
+    background-color: #f4f4f4; /* A light grey background gives it a subtle look */
+    border-bottom: 2px solid #ccc; /* Adding a border emphasizes the navigation bar */
+    padding: 10px; /* Padding makes the links more spaced and easier to click */
+}
+
+/* I’m styling the individual links inside the navigation bar */
+.nav-bar a {
+    color: #333; /* Dark grey for the links ensures readability */
+    text-decoration: none; /* Removing the underline keeps the design clean */
+    margin-right: 15px; /* Adding space between the links prevents them from looking cramped */
+    font-family: Arial, sans-serif; /* Using a simple font for better readability */
+}
+
+/* I’m styling the image using its class */
+.styled-image {
+    max-width: 100%; /* I want the image to be responsive, so it scales with the page width */
+    border: 5px solid #ddd; /* Adding a light grey border makes the image stand out */
+    border-radius: 10px; /* Rounding the corners adds a modern touch to the image */
+    margin: 20px 0; /* Adding margin above and below creates space around the image */
+}
+
+/* I’m styling the footer using its unique ID */
+#main-footer {
+    background-color: #222; /* A dark background color makes the footer distinct */
+    color: white; /* White text contrasts well with the dark background */
+    text-align: center; /* Center-aligning the text keeps the footer organized */
+    padding: 10px; /* Adding padding creates space inside the footer */
+    font-family: 'Courier New', Courier, monospace; /* Using a different font for the footer makes it unique */
+}
